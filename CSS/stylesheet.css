@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: bisque;
 }
 
 /* Form Styles */
@@ -38,7 +39,7 @@ input, select {
 /* Button Styles */
 button {
     width: 100%;
-    background-color: #007bff;
+    background-color: #28a745;
     color: white;
     padding: 10px;
     border: none;
@@ -47,6 +48,7 @@ button {
     font-size: 16px;
 }
 
+
 button:hover {
-    background-color: #0056b3;
+    background-color: deepskyblue;
 }
